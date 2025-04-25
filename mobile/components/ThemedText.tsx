@@ -35,26 +35,26 @@ export function ThemedText({
 
 const styles = StyleSheet.create({
   default: {
-    fontSize: 16,
+    fontSize: 17,
     lineHeight: 24,
   },
   defaultSemiBold: {
-    fontSize: 16,
-    lineHeight: 24,
+    fontSize: 20,
+    lineHeight: 25,
     fontWeight: '600',
   },
   title: {
-    fontSize: 32,
+    fontSize: 35,
     fontWeight: 'bold',
     lineHeight: 32,
   },
   subtitle: {
-    fontSize: 20,
+    fontSize: 15,
     fontWeight: 'bold',
   },
   link: {
-    lineHeight: 30,
-    fontSize: 16,
+    lineHeight: 20,
+    fontSize: 10,
     color: '#0a7ea4',
   },
 });

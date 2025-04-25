@@ -34,7 +34,7 @@ export default function HomeScreen() {
         <ThemedText>
           🚀 Um sistema rápido, simples e seguro.
           O banco digital feito pra você ir além.{' '}
-          <ThemedText> Alem de, garantir a tua segurança em primeiro lugar. Tudo criptografado
+          <ThemedText> Além de garantir a tua segurança em primeiro lugar. Tudo criptografado
             e protegido para você usar com tranquilidade.</ThemedText>{' '}
         </ThemedText>
       </ThemedView>

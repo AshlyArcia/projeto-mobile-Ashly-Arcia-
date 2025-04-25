@@ -51,8 +51,8 @@ export default function TabTwoScreen() {
             Selecciona uma opção para continuar:
             {'\n'}• ✔️ Visualizar cartões de crédito e débito ativos.
             {'\n'}• 📅 Consultar o limite disponível e a fatura atual.
-            {'\n'}• ⛔ Bloquear ou desbloquear seu cartão.
-            {'\n'}• 💳 Solicitar segunda via ou cartão virtual.
+            {'\n'}• ⛔ Bloquear ou desbloquear teu cartão.
+            {'\n'}• 💳 Solicitar segunda via ou um cartão virtual.
           </ThemedText>
         </Collapsible>
       </ThemedView>

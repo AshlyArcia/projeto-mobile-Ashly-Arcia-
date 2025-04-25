@@ -17,7 +17,7 @@ Como ainda estou ganhando experiência com a tecnologia, algumas funções mais 
 # Tela Usuario
 <ul>
   <li>Saldo disponivel.</li>
-  <li>Na tela de Usuario, aparece 3 topicou ou botoões, pix, extrato, cartões. Onde clicando neles aparece diferentes opções para cada botão.</li>
+  <li>Na tela de Usuario, aparece 3 botoões, pix, extrato, cartões. Onde clicando neles aparece diferentes opções para cada botão.</li>
 </ul>
 
 ![saldo png](https://github.com/user-attachments/assets/d7c8b499-320b-48ba-a95d-9a77979f768d)
